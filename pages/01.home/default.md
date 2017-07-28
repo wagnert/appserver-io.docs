@@ -1,5 +1,8 @@
 ---
 title: Home
+process:
+    markdown: true
+    twig: true
 ---
 
 # Grav is Running!
